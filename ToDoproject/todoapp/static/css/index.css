@@ -1,0 +1,26 @@
+.items
+{
+    align-items: center;
+}
+
+.list_window
+{
+    border-radius: inherit;
+}
+
+.delete
+{
+    width: 70px;
+    height: 34px;
+    z-index: 100;
+}
+
+.delete:hover{
+    fill: red;
+    cursor: pointer;
+}
+
+.item
+{
+    word-wrap: anywhere;
+}
